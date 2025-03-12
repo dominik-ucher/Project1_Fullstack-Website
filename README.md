@@ -1,6 +1,6 @@
 ### 🌐 About the Project
 
-Welcome to **Rosenborgbanen** — a fullstack web application designed as a hobby project! Built with **ReactJS**, **NodeJS**, **MySQL** and hosted on my own VPS server using **Ubuntu** and **NGINX**. And what makes this project so special is the **No-Code** system that is added into the application. So if you want to **update**, **edit** or **delete** something on the website, you can do so without knowing any code!
+Welcome to **Rosenborgbanen** — a fullstack web application project! Built with **ReactJS**, **NodeJS**, **MySQL** and hosted on a VPS server using **Ubuntu** and **NGINX**. And what makes this project so special is the **No-Code** system that is added into the application.
 
 🚀 **Tech Stack**:
 - **Frontend**: ReactJS
